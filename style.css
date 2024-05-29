@@ -11,7 +11,7 @@ body {
 .card {
   display: inline-block;
   text-align: left;
-  width: clamp(20em, 20vw, 370px);
+  width: clamp(20em, 30vw, 370px);
   background-color: hsl(0, 0%, 100%);
   padding: 1.2em;
   border-radius: 20px;
